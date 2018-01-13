@@ -1,0 +1,5 @@
+/Users/gauravuniyal/Projects/SortingAlgo/SortingAlgo/obj/x86/Debug/SortingAlgo.csproj.CoreCompileInputs.cache
+/Users/gauravuniyal/Projects/SortingAlgo/SortingAlgo/bin/Debug/SortingAlgo.exe
+/Users/gauravuniyal/Projects/SortingAlgo/SortingAlgo/bin/Debug/SortingAlgo.pdb
+/Users/gauravuniyal/Projects/SortingAlgo/SortingAlgo/obj/x86/Debug/SortingAlgo.exe
+/Users/gauravuniyal/Projects/SortingAlgo/SortingAlgo/obj/x86/Debug/SortingAlgo.pdb

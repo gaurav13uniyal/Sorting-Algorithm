@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{61025409-D19F-4C67-A9F4-24119FAAA1AA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortingAlgo/Program.cs">
+    <Files>
+      <File FileName="SortingAlgo/Program.cs" Line="188" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SortingAlgo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
